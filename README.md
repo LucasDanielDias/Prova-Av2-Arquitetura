@@ -27,7 +27,7 @@ public class UsuarioController {
 ```
 ## Arquitetura do projeto:
 
-![image](https://github.com/LucasDanielDias/Prova-Av2-Arquitetura/blob/c98c57db25724308bdf15007f6087aee43e969af/imagem/Imagem%202.png)
+![image]()
 
  - Como podemos ver a arquitetura do projeto foi feito a partir do passo dos controlers.
  - Seguindo para a utilização dos micro services definidos pelos controlers.
